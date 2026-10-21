@@ -42,13 +42,12 @@ Building scalable SaaS platforms, enterprise applications, and AI-powered produc
 |---------|-------------|-------|------|
 | **AdalatAI** | Legal AI SaaS with document retrieval, source-grounded answers, document analysis, and client-lawyer communication | Laravel, RAG, LLM APIs | [Portfolio](https://ahmadbkye12.injazdev.com/) |
 | **DentalZorg ERP** | Enterprise ERP and CRM platform | Laravel, Next.js | Private |
-| **Nitro Bilişim ERP** | Enterprise resource planning system | Web Development | [Visit](https://erp.nitrobilisim.com.tr/) |
 | **Nythora** | AI-driven web platform | Web Development, AI | [Visit](https://www.nythora.com/) |
 | **Gazeta AI** | AI-powered news platform | Web Development, AI | [Visit](https://www.gazeteai.com.tr/home) |
 | **Laravel API Projects** | Backend services, authentication, API integrations, and database-driven applications | Laravel, REST APIs | Various |
 
 <details>
-<summary><b>View all client projects (32)</b></summary>
+<summary><b>View all client projects (30)</b></summary>
 
 <br>
 
@@ -80,9 +79,7 @@ Building scalable SaaS platforms, enterprise applications, and AI-powered produc
 | Urfarm | Agriculture | [urfarm.com.tr](https://www.urfarm.com.tr/) |
 | YetimEhli | Non-Profit | [yetimehli.org.tr](https://www.yetimehli.org.tr/en) |
 | Mahroufa | E-Commerce | [mahroufa.com](https://www.mahroufa.com/) |
-| Nitro Bilişim ERP | Software | [erp.nitrobilisim.com.tr](https://erp.nitrobilisim.com.tr/) |
 | OBD Test | Automotive | [obdtest.com](https://obdtest.com/) |
-| Nitro Bilişim | Software | [nitrobilisim.com.tr](https://nitrobilisim.com.tr) |
 | Garaj Market | E-Commerce | [garajmarket.net](https://garajmarket.net/) |
 | Narcave House | Real Estate | [narcavehouse.com](https://narcavehouse.com/) |
 
@@ -94,8 +91,8 @@ Building scalable SaaS platforms, enterprise applications, and AI-powered produc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadbkye12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbkye12&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadbkye12&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub statistics" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbkye12&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="170" />
 
 </div>
 
